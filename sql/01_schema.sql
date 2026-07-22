@@ -1,0 +1,8 @@
+-- ============================================
+-- Project: Enterprise Data Reconciliation & Quality Analytics
+-- Database: enterprise_data_reconciliation
+-- Author: Kajal Sharma
+-- Description:
+-- This database simulates an e-commerce system used for
+-- data reconciliation and quality analysis.
+-- ============================================
